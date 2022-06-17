@@ -6,7 +6,7 @@ DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
 UUID=1fd21bf5-7675-4169-892f-561919a83c1c
-WSPATH=/xray
+WSPATH=/1fd21bf5-7675-4169-892f-561919a83c1c-vless
 PORT=80
 
 # Write V2Ray configuration
